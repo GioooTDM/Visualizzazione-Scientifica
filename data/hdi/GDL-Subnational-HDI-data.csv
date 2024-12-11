@@ -1,0 +1,53 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,"2022"
+"United States","America","USA","National","USAt","Total",0.927
+"United States","America","USA","Subnat","USAr101","Alabama",0.877
+"United States","America","USA","Subnat","USAr102","Alaska",0.931
+"United States","America","USA","Subnat","USAr103","Arizona",0.906
+"United States","America","USA","Subnat","USAr104","Arkansas",0.880
+"United States","America","USA","Subnat","USAr105","California",0.935
+"United States","America","USA","Subnat","USAr106","Colorado",0.952
+"United States","America","USA","Subnat","USAr107","Connecticut",0.950
+"United States","America","USA","Subnat","USAr108","Delaware",0.922
+"United States","America","USA","Subnat","USAr109","District of Columbia",0.947
+"United States","America","USA","Subnat","USAr110","Florida",0.925
+"United States","America","USA","Subnat","USAr111","Georgia",0.905
+"United States","America","USA","Subnat","USAr112","Hawaii",0.947
+"United States","America","USA","Subnat","USAr113","Idaho",0.916
+"United States","America","USA","Subnat","USAr114","Illinois",0.932
+"United States","America","USA","Subnat","USAr115","Indiana",0.903
+"United States","America","USA","Subnat","USAr116","Iowa",0.923
+"United States","America","USA","Subnat","USAr117","Kansas",0.921
+"United States","America","USA","Subnat","USAr118","Kentucky",0.879
+"United States","America","USA","Subnat","USAr119","Louisiana",0.881
+"United States","America","USA","Subnat","USAr120","Maine",0.929
+"United States","America","USA","Subnat","USAr121","Maryland",0.942
+"United States","America","USA","Subnat","USAr122","Massachusetts",0.956
+"United States","America","USA","Subnat","USAr123","Michigan",0.913
+"United States","America","USA","Subnat","USAr124","Minnesota",0.951
+"United States","America","USA","Subnat","USAr125","Mississippi",0.858
+"United States","America","USA","Subnat","USAr126","Missouri",0.904
+"United States","America","USA","Subnat","USAr127","Montana",0.924
+"United States","America","USA","Subnat","USAr128","Nebraska",0.931
+"United States","America","USA","Subnat","USAr129","Nevada",0.910
+"United States","America","USA","Subnat","USAr130","New Hampshire",0.956
+"United States","America","USA","Subnat","USAr131","New Jersey",0.943
+"United States","America","USA","Subnat","USAr132","New Mexico",0.884
+"United States","America","USA","Subnat","USAr133","New York",0.937
+"United States","America","USA","Subnat","USAr134","North Carolina",0.908
+"United States","America","USA","Subnat","USAr135","North Dakota",0.934
+"United States","America","USA","Subnat","USAr136","Ohio",0.908
+"United States","America","USA","Subnat","USAr137","Oklahoma",0.892
+"United States","America","USA","Subnat","USAr138","Oregon",0.938
+"United States","America","USA","Subnat","USAr139","Pennsylvania",0.928
+"United States","America","USA","Subnat","USAr140","Rhode Island",0.934
+"United States","America","USA","Subnat","USAr141","South Carolina",0.894
+"United States","America","USA","Subnat","USAr142","South Dakota",0.929
+"United States","America","USA","Subnat","USAr143","Tennessee",0.893
+"United States","America","USA","Subnat","USAr144","Texas",0.907
+"United States","America","USA","Subnat","USAr145","Utah",0.931
+"United States","America","USA","Subnat","USAr146","Vermont",0.945
+"United States","America","USA","Subnat","USAr147","Virginia",0.939
+"United States","America","USA","Subnat","USAr148","Washington",0.952
+"United States","America","USA","Subnat","USAr149","West Virginia",0.870
+"United States","America","USA","Subnat","USAr150","Wisconsin",0.929
+"United States","America","USA","Subnat","USAr151","Wyoming",0.936
